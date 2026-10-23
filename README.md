@@ -4,7 +4,7 @@
 
 ---
 
-## Guide to my main code
+## Guide to my representative work
 
 ### [Speech predictability of parents' and children's language](https://github.com/MPelland-programming/Speech_predictability_of_parents_and_children_language)
 My best, longest and neatest code (but not neural net training).
