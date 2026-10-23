@@ -1,15 +1,19 @@
-### Welcome to my github, for potential employers, please look below for a short guided tour of this repository. 
+# Welcome to my GitHub
 
-**Guide to my main codes**/n
+**For potential employers:** here is a short guided tour of this profile's main projects.
 
-[Best, longest and neatest code (but not training)](https://www.genome.gov/](https://github.com/MPelland-programming/Speech_predictability_of_parents_and_children_language)
+---
 
-[Training of neural net + custom loss functions](https://github.com/MPelland-programming/batteries_hydro_quebec_resolution_pb_industriel/blob/main/predictor_models.py)
+## Guide to my main code
 
-   Collaboration with multiple authors, I wrote the neural net training code (linked), due to some issues, my collaborator had to commit it. You can see I opened a new branch to make new changes.
-   
-[Training of neural net + data augmentation via LLM]([https://www.genome.gov/](https://github.com/MPelland-programming/Training_Classifier_on_Rare_Categories)
+### [Speech predictability of parents' and children's language](https://github.com/MPelland-programming/Speech_predictability_of_parents_and_children_language)
+My best, longest and neatest code (but not neural net training).
 
-   Not neat, but shows my implementation of training a RoBERTa and DistilBERT. 
-   
-[R code, fitting different non AI models](https://github.com/MPelland-programming/BIXI_project)
+### [Neural net training + custom loss functions](https://github.com/MPelland-programming/batteries_hydro_quebec_resolution_pb_industriel/blob/main/predictor_models.py)
+A collaboration with multiple authors. I wrote the neural net training code (linked); due to some issues, my collaborator had to commit it. You can see that I opened a new branch to make further changes.
+
+### [Neural net training + data augmentation via LLM](https://github.com/MPelland-programming/Training_Classifier_on_Rare_Categories)
+Not the neatest, but it shows my implementation of training RoBERTa and DistilBERT models.
+
+### [R code: fitting different non-AI models](https://github.com/MPelland-programming/BIXI_project)
+Fitting and comparing several classical (non-AI) models in R.
